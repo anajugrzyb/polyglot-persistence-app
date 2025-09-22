@@ -8,8 +8,6 @@
 Este projeto implementa **persistência poliglota** integrando **SQLite** (dados tabulares) e **MongoDB** (documentos JSON com coordenadas), além de **funções de geoprocessamento** (cálculo de distâncias e proximidade geográfica).  
 A interface é construída em **Streamlit**, permitindo cadastro, consulta e visualização em mapa.  
 
-Agora com suporte a **Docker e Docker Compose**. 🚀
-
 ---
 
 ## 🚀 Funcionalidades
