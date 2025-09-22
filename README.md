@@ -72,10 +72,14 @@ Streamlit
 Pandas
 PyMongo
 
-## 📸 Demonstração finalÇ
-
+## 📸 Demonstração do projeto
+- Cadastro:
 <img width="1894" height="940" alt="image" src="https://github.com/user-attachments/assets/17affed8-3335-41ce-a1de-6f45d9fb5591" />
+
+- Consulta:
 <img width="1910" height="926" alt="image" src="https://github.com/user-attachments/assets/5619bd7d-1189-47a2-8445-001ffdea562d" />
+
+- Geo-proximidade:
 <img width="1902" height="946" alt="image" src="https://github.com/user-attachments/assets/802ad8db-9f20-47d6-8eea-e731d14335c4" />
 
 
